@@ -2,7 +2,7 @@
 #include <ESP32Ping.h>
 #define MDASH_APP_NAME "TestAppUN"
 #include <mDash.h>
-#define DEVICE_PASSWORD "5RAD8IU99axrPID0290bJvWg"
+#define DEVICE_PASSWORD "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #define ESP_getChipId()   ((uint32_t)ESP.getEfuseMac())
 
